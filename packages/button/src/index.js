@@ -31,7 +31,7 @@ const StyledButton = styled.button`
 
     :hover {
         color: #000;
-        border: 1px solid #000;
+        border: 1px solid #000000;
         background-color: #fff;
     }
 
