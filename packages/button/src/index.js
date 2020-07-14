@@ -9,7 +9,7 @@ const APPEARANCES = {
 };
 
 const StyledButton = styled.button`
-    background-color: #000;
+    background-color: red;
     border-radius: 4px;
     color: #fff;
     cursor: pointer;
